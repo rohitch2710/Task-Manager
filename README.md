@@ -165,7 +165,7 @@ All UI is built with responsive and modern design principles.
 ## 🧑‍💻 Author
 
 > Developed by **Rohit Chaudhary**  
-> 🔗 GitHub: [github.com/your-username](https://github.com/rohitch2710)
+> 🔗 GitHub: rohitch2710
 
 ---
 
